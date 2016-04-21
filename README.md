@@ -1,1 +1,2 @@
-# Python-Kac-Saniye-Yasadin
+# Python Kaç Saniye Yaşadın ?
+
